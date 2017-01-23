@@ -1,0 +1,9 @@
+D:\Workspace\bykovas.visualstudio.com\MobiliLife\VytaTask\10 Persistence Layer\VytaTask.Database\bin\Debug\VytaTask.Database.dacpac
+D:\Workspace\bykovas.visualstudio.com\MobiliLife\VytaTask\10 Persistence Layer\VytaTask.Database\bin\Debug\VytaTask.Database.dll
+D:\Workspace\bykovas.visualstudio.com\MobiliLife\VytaTask\10 Persistence Layer\VytaTask.Database\bin\Debug\VytaTask.Database.pdb
+D:\Workspace\bykovas.visualstudio.com\MobiliLife\VytaTask\10 Persistence Layer\VytaTask.Database\obj\Debug\Model.xml
+D:\Workspace\bykovas.visualstudio.com\MobiliLife\VytaTask\10 Persistence Layer\VytaTask.Database\obj\Debug\refactor.xml
+D:\Workspace\bykovas.visualstudio.com\MobiliLife\VytaTask\10 Persistence Layer\VytaTask.Database\obj\Debug\postdeploy.sql
+D:\Workspace\bykovas.visualstudio.com\MobiliLife\VytaTask\10 Persistence Layer\VytaTask.Database\obj\Debug\predeploy.sql
+D:\Workspace\bykovas.visualstudio.com\MobiliLife\VytaTask\10 Persistence Layer\VytaTask.Database\obj\Debug\VytaTask.Database.dll
+D:\Workspace\bykovas.visualstudio.com\MobiliLife\VytaTask\10 Persistence Layer\VytaTask.Database\obj\Debug\VytaTask.Database.pdb

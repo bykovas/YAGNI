@@ -1,0 +1,11 @@
+D:\WorkspaceJobs\Mobililife\VytaTask\50 Presentation Layer\VytaTask.Client.Console\bin\Debug\VytaTask.Client.Console.exe.config
+D:\WorkspaceJobs\Mobililife\VytaTask\50 Presentation Layer\VytaTask.Client.Console\bin\Debug\VytaTask.Client.Console.exe
+D:\WorkspaceJobs\Mobililife\VytaTask\50 Presentation Layer\VytaTask.Client.Console\bin\Debug\VytaTask.Client.Console.pdb
+D:\WorkspaceJobs\Mobililife\VytaTask\50 Presentation Layer\VytaTask.Client.Console\obj\Debug\VytaTask.Client.Console.exe
+D:\WorkspaceJobs\Mobililife\VytaTask\50 Presentation Layer\VytaTask.Client.Console\obj\Debug\VytaTask.Client.Console.pdb
+D:\WorkspaceJobs\Mobililife\VytaTask\50 Presentation Layer\VytaTask.Client.Console\obj\Debug\VytaTask.Client.Console.csprojResolveAssemblyReference.cache
+D:\Workspace\bykovas.visualstudio.com\MobiliLife\VytaTask\50 Presentation Layer\VytaTask.Client.Console\bin\Debug\VytaTask.Client.Console.exe.config
+D:\Workspace\bykovas.visualstudio.com\MobiliLife\VytaTask\50 Presentation Layer\VytaTask.Client.Console\bin\Debug\VytaTask.Client.Console.exe
+D:\Workspace\bykovas.visualstudio.com\MobiliLife\VytaTask\50 Presentation Layer\VytaTask.Client.Console\bin\Debug\VytaTask.Client.Console.pdb
+D:\Workspace\bykovas.visualstudio.com\MobiliLife\VytaTask\50 Presentation Layer\VytaTask.Client.Console\obj\Debug\VytaTask.Client.Console.exe
+D:\Workspace\bykovas.visualstudio.com\MobiliLife\VytaTask\50 Presentation Layer\VytaTask.Client.Console\obj\Debug\VytaTask.Client.Console.pdb

@@ -1,0 +1,226 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00 Documentation Layer", "00 Documentation Layer", "{A6C248D7-0363-4506-8D86-456E0CAF3964}"
+	ProjectSection(SolutionItems) = preProject
+		00 Documentation Layer\ReadMe.txt = 00 Documentation Layer\ReadMe.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "10 Persistence Layer", "10 Persistence Layer", "{7C7F23FA-423B-42AA-BF59-53C530D4990C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "20 Data Access Layer", "20 Data Access Layer", "{B36EBDD5-ABD9-4836-96F7-1643D6F5CD89}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "30 Business Layer", "30 Business Layer", "{5D3573E7-323D-4B13-807B-AD187337169A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "40 Application Facade Layer", "40 Application Facade Layer", "{484E700E-0F78-4513-B8BD-B2022D6AF94D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "50 Presentation Layer", "50 Presentation Layer", "{FA205F2E-CCA0-44E7-A9D4-7C187C81579D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "60 Deployment Layer", "60 Deployment Layer", "{3EB8BE82-BAF7-4560-98C2-E7544CA53125}"
+	ProjectSection(SolutionItems) = preProject
+		60 Deployment Layer\ReadMe.txt = 60 Deployment Layer\ReadMe.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "90 Unit Testing Layer", "90 Unit Testing Layer", "{6E2AB79F-5780-46C0-8173-77BE85B6012F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "80 Cross-Cutting Layer", "80 Cross-Cutting Layer", "{4A3CADD0-A10A-4D14-943C-94C45B824D77}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "VytaTask.Database", "10 Persistence Layer\VytaTask.Database\VytaTask.Database.sqlproj", "{2EDA09F3-764A-4BBB-9651-C35840B81799}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VytaTask.Dal.Data", "20 Data Access Layer\VytaTask.Dal.Data\VytaTask.Dal.Data.csproj", "{CBA3A45F-5485-4A55-9DDC-681ED1E6245B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VytaTask.Facade.WebApi", "40 Application Facade Layer\VytaTask.Facade.WebApi\VytaTask.Facade.WebApi.csproj", "{9621F28B-FFF6-4660-B1ED-5E62C786CD8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VytaTask.Dal.Caching", "20 Data Access Layer\VytaTask.Dal.Caching\VytaTask.Dal.Caching.csproj", "{02474C34-30DB-409E-8B03-F83AD42EC1AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VytaTask.Business.Contracts", "30 Business Layer\VytaTask.Business.Contracts\VytaTask.Business.Contracts.csproj", "{61354D3A-A1CE-440E-968C-1919CA84572A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VytaTask.Business.Domain", "30 Business Layer\VytaTask.Business.Domain\VytaTask.Business.Domain.csproj", "{D2178795-C203-4299-B2A0-48146B388174}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VytaTask.Business.Managers", "30 Business Layer\VytaTask.Business.Managers\VytaTask.Business.Managers.csproj", "{25008E8A-BCAA-4B88-BAA8-75B826015042}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VytaTask.Client.Console", "50 Presentation Layer\VytaTask.Client.Console\VytaTask.Client.Console.csproj", "{69179309-BF16-475A-A4A1-55E31A647B7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VytaTask.UnitTests", "90 Unit Testing Layer\VytaTask.UnitTests\VytaTask.UnitTests.csproj", "{93ACA61A-3524-47C7-BD3B-FA2BFA762EBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VytaTask.CrossCutting.Infrastructure", "VytaTask.CrossCutting.Infrastructure\VytaTask.CrossCutting.Infrastructure.csproj", "{81D1E717-7C41-4BF2-A53A-E7BA1A0FBA7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VytaTask.Framework", "50 Presentation Layer\VytaTask.Framework\VytaTask.Framework.csproj", "{B9ADCEEF-ED18-4DA0-A122-13CC0CFF4A14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VytaTask.CrossCutting.Events", "80 Cross-Cutting Layer\VytaTask.CrossCutting.Events\VytaTask.CrossCutting.Events.csproj", "{0F6C864A-5049-4A69-A596-7CA1B90CCE3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VytaTask.CrossCutting.Logger", "80 Cross-Cutting Layer\VytaTask.CrossCutting.Logger\VytaTask.CrossCutting.Logger.csproj", "{AC52DADC-BA7B-4414-9103-DBE03C4F4518}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VytaTask.CrossCutting.ExceptionHandlers", "80 Cross-Cutting Layer\VytaTask.CrossCutting.ExceptionHandlers\VytaTask.CrossCutting.ExceptionHandlers.csproj", "{593CB9A5-652A-435A-BF34-51153DADA9E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VytaTask.CrossCutting.Extentions", "80 Cross-Cutting Layer\VytaTask.CrossCutting.Extentions\VytaTask.CrossCutting.Extentions.csproj", "{12721406-9C88-416E-9741-F5EBEA25ED43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VytaTask.CrossCutting.ValueConverters", "80 Cross-Cutting Layer\VytaTask.CrossCutting.ValueConverters\VytaTask.CrossCutting.ValueConverters.csproj", "{2DC0A59B-F30B-4D04-97E7-8E2625C90E53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EDA09F3-764A-4BBB-9651-C35840B81799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EDA09F3-764A-4BBB-9651-C35840B81799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EDA09F3-764A-4BBB-9651-C35840B81799}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2EDA09F3-764A-4BBB-9651-C35840B81799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EDA09F3-764A-4BBB-9651-C35840B81799}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EDA09F3-764A-4BBB-9651-C35840B81799}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{CBA3A45F-5485-4A55-9DDC-681ED1E6245B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBA3A45F-5485-4A55-9DDC-681ED1E6245B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBA3A45F-5485-4A55-9DDC-681ED1E6245B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBA3A45F-5485-4A55-9DDC-681ED1E6245B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9621F28B-FFF6-4660-B1ED-5E62C786CD8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9621F28B-FFF6-4660-B1ED-5E62C786CD8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9621F28B-FFF6-4660-B1ED-5E62C786CD8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9621F28B-FFF6-4660-B1ED-5E62C786CD8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02474C34-30DB-409E-8B03-F83AD42EC1AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02474C34-30DB-409E-8B03-F83AD42EC1AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02474C34-30DB-409E-8B03-F83AD42EC1AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02474C34-30DB-409E-8B03-F83AD42EC1AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61354D3A-A1CE-440E-968C-1919CA84572A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61354D3A-A1CE-440E-968C-1919CA84572A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61354D3A-A1CE-440E-968C-1919CA84572A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61354D3A-A1CE-440E-968C-1919CA84572A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2178795-C203-4299-B2A0-48146B388174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2178795-C203-4299-B2A0-48146B388174}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2178795-C203-4299-B2A0-48146B388174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2178795-C203-4299-B2A0-48146B388174}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25008E8A-BCAA-4B88-BAA8-75B826015042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25008E8A-BCAA-4B88-BAA8-75B826015042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25008E8A-BCAA-4B88-BAA8-75B826015042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25008E8A-BCAA-4B88-BAA8-75B826015042}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69179309-BF16-475A-A4A1-55E31A647B7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69179309-BF16-475A-A4A1-55E31A647B7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69179309-BF16-475A-A4A1-55E31A647B7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69179309-BF16-475A-A4A1-55E31A647B7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93ACA61A-3524-47C7-BD3B-FA2BFA762EBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93ACA61A-3524-47C7-BD3B-FA2BFA762EBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93ACA61A-3524-47C7-BD3B-FA2BFA762EBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93ACA61A-3524-47C7-BD3B-FA2BFA762EBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81D1E717-7C41-4BF2-A53A-E7BA1A0FBA7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81D1E717-7C41-4BF2-A53A-E7BA1A0FBA7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81D1E717-7C41-4BF2-A53A-E7BA1A0FBA7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81D1E717-7C41-4BF2-A53A-E7BA1A0FBA7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9ADCEEF-ED18-4DA0-A122-13CC0CFF4A14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9ADCEEF-ED18-4DA0-A122-13CC0CFF4A14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9ADCEEF-ED18-4DA0-A122-13CC0CFF4A14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9ADCEEF-ED18-4DA0-A122-13CC0CFF4A14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F6C864A-5049-4A69-A596-7CA1B90CCE3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F6C864A-5049-4A69-A596-7CA1B90CCE3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F6C864A-5049-4A69-A596-7CA1B90CCE3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F6C864A-5049-4A69-A596-7CA1B90CCE3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC52DADC-BA7B-4414-9103-DBE03C4F4518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC52DADC-BA7B-4414-9103-DBE03C4F4518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC52DADC-BA7B-4414-9103-DBE03C4F4518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC52DADC-BA7B-4414-9103-DBE03C4F4518}.Release|Any CPU.Build.0 = Release|Any CPU
+		{593CB9A5-652A-435A-BF34-51153DADA9E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{593CB9A5-652A-435A-BF34-51153DADA9E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{593CB9A5-652A-435A-BF34-51153DADA9E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{593CB9A5-652A-435A-BF34-51153DADA9E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12721406-9C88-416E-9741-F5EBEA25ED43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12721406-9C88-416E-9741-F5EBEA25ED43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12721406-9C88-416E-9741-F5EBEA25ED43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12721406-9C88-416E-9741-F5EBEA25ED43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DC0A59B-F30B-4D04-97E7-8E2625C90E53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DC0A59B-F30B-4D04-97E7-8E2625C90E53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DC0A59B-F30B-4D04-97E7-8E2625C90E53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DC0A59B-F30B-4D04-97E7-8E2625C90E53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2EDA09F3-764A-4BBB-9651-C35840B81799} = {7C7F23FA-423B-42AA-BF59-53C530D4990C}
+		{CBA3A45F-5485-4A55-9DDC-681ED1E6245B} = {B36EBDD5-ABD9-4836-96F7-1643D6F5CD89}
+		{9621F28B-FFF6-4660-B1ED-5E62C786CD8A} = {484E700E-0F78-4513-B8BD-B2022D6AF94D}
+		{02474C34-30DB-409E-8B03-F83AD42EC1AC} = {B36EBDD5-ABD9-4836-96F7-1643D6F5CD89}
+		{61354D3A-A1CE-440E-968C-1919CA84572A} = {5D3573E7-323D-4B13-807B-AD187337169A}
+		{D2178795-C203-4299-B2A0-48146B388174} = {5D3573E7-323D-4B13-807B-AD187337169A}
+		{25008E8A-BCAA-4B88-BAA8-75B826015042} = {5D3573E7-323D-4B13-807B-AD187337169A}
+		{69179309-BF16-475A-A4A1-55E31A647B7E} = {FA205F2E-CCA0-44E7-A9D4-7C187C81579D}
+		{93ACA61A-3524-47C7-BD3B-FA2BFA762EBD} = {6E2AB79F-5780-46C0-8173-77BE85B6012F}
+		{81D1E717-7C41-4BF2-A53A-E7BA1A0FBA7C} = {4A3CADD0-A10A-4D14-943C-94C45B824D77}
+		{B9ADCEEF-ED18-4DA0-A122-13CC0CFF4A14} = {FA205F2E-CCA0-44E7-A9D4-7C187C81579D}
+		{0F6C864A-5049-4A69-A596-7CA1B90CCE3C} = {4A3CADD0-A10A-4D14-943C-94C45B824D77}
+		{AC52DADC-BA7B-4414-9103-DBE03C4F4518} = {4A3CADD0-A10A-4D14-943C-94C45B824D77}
+		{593CB9A5-652A-435A-BF34-51153DADA9E6} = {4A3CADD0-A10A-4D14-943C-94C45B824D77}
+		{12721406-9C88-416E-9741-F5EBEA25ED43} = {4A3CADD0-A10A-4D14-943C-94C45B824D77}
+		{2DC0A59B-F30B-4D04-97E7-8E2625C90E53} = {4A3CADD0-A10A-4D14-943C-94C45B824D77}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 17
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://bykovas.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = 10\u0020Persistence\u0020Layer\\VytaTask.Database\\VytaTask.Database.sqlproj
+		SccProjectTopLevelParentUniqueName1 = VytaTask.sln
+		SccProjectName1 = 10\u0020Persistence\u0020Layer/VytaTask.Database
+		SccLocalPath1 = 10\u0020Persistence\u0020Layer\\VytaTask.Database
+		SccProjectUniqueName2 = 20\u0020Data\u0020Access\u0020Layer\\VytaTask.Dal.Data\\VytaTask.Dal.Data.csproj
+		SccProjectTopLevelParentUniqueName2 = VytaTask.sln
+		SccProjectName2 = 20\u0020Data\u0020Access\u0020Layer/VytaTask.Dal.Data
+		SccLocalPath2 = 20\u0020Data\u0020Access\u0020Layer\\VytaTask.Dal.Data
+		SccProjectUniqueName3 = 40\u0020Application\u0020Facade\u0020Layer\\VytaTask.Facade.WebApi\\VytaTask.Facade.WebApi.csproj
+		SccProjectTopLevelParentUniqueName3 = VytaTask.sln
+		SccProjectName3 = 40\u0020Application\u0020Facade\u0020Layer/VytaTask.Facade.WebApi
+		SccLocalPath3 = 40\u0020Application\u0020Facade\u0020Layer\\VytaTask.Facade.WebApi
+		SccProjectUniqueName4 = 20\u0020Data\u0020Access\u0020Layer\\VytaTask.Dal.Caching\\VytaTask.Dal.Caching.csproj
+		SccProjectTopLevelParentUniqueName4 = VytaTask.sln
+		SccProjectName4 = 20\u0020Data\u0020Access\u0020Layer/VytaTask.Dal.Caching
+		SccLocalPath4 = 20\u0020Data\u0020Access\u0020Layer\\VytaTask.Dal.Caching
+		SccProjectUniqueName5 = 30\u0020Business\u0020Layer\\VytaTask.Business.Contracts\\VytaTask.Business.Contracts.csproj
+		SccProjectTopLevelParentUniqueName5 = VytaTask.sln
+		SccProjectName5 = 30\u0020Business\u0020Layer/VytaTask.Business.Contracts
+		SccLocalPath5 = 30\u0020Business\u0020Layer\\VytaTask.Business.Contracts
+		SccProjectUniqueName6 = 30\u0020Business\u0020Layer\\VytaTask.Business.Domain\\VytaTask.Business.Domain.csproj
+		SccProjectTopLevelParentUniqueName6 = VytaTask.sln
+		SccProjectName6 = 30\u0020Business\u0020Layer/VytaTask.Business.Domain
+		SccLocalPath6 = 30\u0020Business\u0020Layer\\VytaTask.Business.Domain
+		SccProjectUniqueName7 = 30\u0020Business\u0020Layer\\VytaTask.Business.Managers\\VytaTask.Business.Managers.csproj
+		SccProjectTopLevelParentUniqueName7 = VytaTask.sln
+		SccProjectName7 = 30\u0020Business\u0020Layer/VytaTask.Business.Managers
+		SccLocalPath7 = 30\u0020Business\u0020Layer\\VytaTask.Business.Managers
+		SccProjectUniqueName8 = 50\u0020Presentation\u0020Layer\\VytaTask.Client.Console\\VytaTask.Client.Console.csproj
+		SccProjectTopLevelParentUniqueName8 = VytaTask.sln
+		SccProjectName8 = 50\u0020Presentation\u0020Layer/VytaTask.Client.Console
+		SccLocalPath8 = 50\u0020Presentation\u0020Layer\\VytaTask.Client.Console
+		SccProjectUniqueName9 = 90\u0020Unit\u0020Testing\u0020Layer\\VytaTask.UnitTests\\VytaTask.UnitTests.csproj
+		SccProjectTopLevelParentUniqueName9 = VytaTask.sln
+		SccProjectName9 = 90\u0020Unit\u0020Testing\u0020Layer/VytaTask.UnitTests
+		SccLocalPath9 = 90\u0020Unit\u0020Testing\u0020Layer\\VytaTask.UnitTests
+		SccProjectUniqueName10 = VytaTask.CrossCutting.Infrastructure\\VytaTask.CrossCutting.Infrastructure.csproj
+		SccProjectTopLevelParentUniqueName10 = VytaTask.sln
+		SccProjectName10 = VytaTask.CrossCutting.Infrastructure
+		SccLocalPath10 = VytaTask.CrossCutting.Infrastructure
+		SccProjectUniqueName11 = 50\u0020Presentation\u0020Layer\\VytaTask.Framework\\VytaTask.Framework.csproj
+		SccProjectTopLevelParentUniqueName11 = VytaTask.sln
+		SccProjectName11 = 50\u0020Presentation\u0020Layer/VytaTask.Framework
+		SccLocalPath11 = 50\u0020Presentation\u0020Layer\\VytaTask.Framework
+		SccProjectUniqueName12 = 80\u0020Cross-Cutting\u0020Layer\\VytaTask.CrossCutting.Events\\VytaTask.CrossCutting.Events.csproj
+		SccProjectTopLevelParentUniqueName12 = VytaTask.sln
+		SccProjectName12 = 80\u0020Cross-Cutting\u0020Layer/VytaTask.CrossCutting.Events
+		SccLocalPath12 = 80\u0020Cross-Cutting\u0020Layer\\VytaTask.CrossCutting.Events
+		SccProjectUniqueName13 = 80\u0020Cross-Cutting\u0020Layer\\VytaTask.CrossCutting.Logger\\VytaTask.CrossCutting.Logger.csproj
+		SccProjectTopLevelParentUniqueName13 = VytaTask.sln
+		SccProjectName13 = 80\u0020Cross-Cutting\u0020Layer/VytaTask.CrossCutting.Logger
+		SccLocalPath13 = 80\u0020Cross-Cutting\u0020Layer\\VytaTask.CrossCutting.Logger
+		SccProjectUniqueName14 = 80\u0020Cross-Cutting\u0020Layer\\VytaTask.CrossCutting.ExceptionHandlers\\VytaTask.CrossCutting.ExceptionHandlers.csproj
+		SccProjectTopLevelParentUniqueName14 = VytaTask.sln
+		SccProjectName14 = 80\u0020Cross-Cutting\u0020Layer/VytaTask.CrossCutting.ExceptionHandlers
+		SccLocalPath14 = 80\u0020Cross-Cutting\u0020Layer\\VytaTask.CrossCutting.ExceptionHandlers
+		SccProjectUniqueName15 = 80\u0020Cross-Cutting\u0020Layer\\VytaTask.CrossCutting.Extentions\\VytaTask.CrossCutting.Extentions.csproj
+		SccProjectTopLevelParentUniqueName15 = VytaTask.sln
+		SccProjectName15 = 80\u0020Cross-Cutting\u0020Layer/VytaTask.CrossCutting.Extentions
+		SccLocalPath15 = 80\u0020Cross-Cutting\u0020Layer\\VytaTask.CrossCutting.Extentions
+		SccProjectUniqueName16 = 80\u0020Cross-Cutting\u0020Layer\\VytaTask.CrossCutting.ValueConverters\\VytaTask.CrossCutting.ValueConverters.csproj
+		SccProjectTopLevelParentUniqueName16 = VytaTask.sln
+		SccProjectName16 = 80\u0020Cross-Cutting\u0020Layer/VytaTask.CrossCutting.ValueConverters
+		SccLocalPath16 = 80\u0020Cross-Cutting\u0020Layer\\VytaTask.CrossCutting.ValueConverters
+	EndGlobalSection
+EndGlobal

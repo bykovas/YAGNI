@@ -1,0 +1,9 @@
+D:\Workspace\bykovas.visualstudio.com\MobiliLife\VytaTask\80 Cross-Cutting Layer\VytaTask.CrossCutting.Logger\bin\Debug\VytaTask.CrossCutting.Logger.dll
+D:\Workspace\bykovas.visualstudio.com\MobiliLife\VytaTask\80 Cross-Cutting Layer\VytaTask.CrossCutting.Logger\bin\Debug\VytaTask.CrossCutting.Logger.pdb
+D:\Workspace\bykovas.visualstudio.com\MobiliLife\VytaTask\80 Cross-Cutting Layer\VytaTask.CrossCutting.Logger\bin\Debug\VytaTask.Business.Contracts.dll
+D:\Workspace\bykovas.visualstudio.com\MobiliLife\VytaTask\80 Cross-Cutting Layer\VytaTask.CrossCutting.Logger\bin\Debug\EntityFramework.dll
+D:\Workspace\bykovas.visualstudio.com\MobiliLife\VytaTask\80 Cross-Cutting Layer\VytaTask.CrossCutting.Logger\bin\Debug\VytaTask.Business.Contracts.pdb
+D:\Workspace\bykovas.visualstudio.com\MobiliLife\VytaTask\80 Cross-Cutting Layer\VytaTask.CrossCutting.Logger\bin\Debug\EntityFramework.xml
+D:\Workspace\bykovas.visualstudio.com\MobiliLife\VytaTask\80 Cross-Cutting Layer\VytaTask.CrossCutting.Logger\obj\Debug\VytaTask.CrossCutting.Logger.csprojResolveAssemblyReference.cache
+D:\Workspace\bykovas.visualstudio.com\MobiliLife\VytaTask\80 Cross-Cutting Layer\VytaTask.CrossCutting.Logger\obj\Debug\VytaTask.CrossCutting.Logger.dll
+D:\Workspace\bykovas.visualstudio.com\MobiliLife\VytaTask\80 Cross-Cutting Layer\VytaTask.CrossCutting.Logger\obj\Debug\VytaTask.CrossCutting.Logger.pdb

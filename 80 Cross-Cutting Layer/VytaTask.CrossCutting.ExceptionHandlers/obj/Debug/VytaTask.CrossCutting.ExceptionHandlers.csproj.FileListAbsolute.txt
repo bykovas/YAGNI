@@ -1,0 +1,13 @@
+D:\WorkspaceJobs\Mobililife\VytaTask\80 Cross-Cutting Layer\VytaTask.CrossCutting.ExceptionHandlers\bin\Debug\VytaTask.CrossCutting.ExceptionHandlers.dll
+D:\WorkspaceJobs\Mobililife\VytaTask\80 Cross-Cutting Layer\VytaTask.CrossCutting.ExceptionHandlers\bin\Debug\VytaTask.CrossCutting.ExceptionHandlers.pdb
+D:\WorkspaceJobs\Mobililife\VytaTask\80 Cross-Cutting Layer\VytaTask.CrossCutting.ExceptionHandlers\obj\Debug\VytaTask.CrossCutting.ExceptionHandlers.dll
+D:\WorkspaceJobs\Mobililife\VytaTask\80 Cross-Cutting Layer\VytaTask.CrossCutting.ExceptionHandlers\obj\Debug\VytaTask.CrossCutting.ExceptionHandlers.pdb
+D:\Workspace\bykovas.visualstudio.com\MobiliLife\VytaTask\80 Cross-Cutting Layer\VytaTask.CrossCutting.ExceptionHandlers\obj\Debug\VytaTask.CrossCutting.ExceptionHandlers.csprojResolveAssemblyReference.cache
+D:\Workspace\bykovas.visualstudio.com\MobiliLife\VytaTask\80 Cross-Cutting Layer\VytaTask.CrossCutting.ExceptionHandlers\obj\Debug\VytaTask.CrossCutting.ExceptionHandlers.dll
+D:\Workspace\bykovas.visualstudio.com\MobiliLife\VytaTask\80 Cross-Cutting Layer\VytaTask.CrossCutting.ExceptionHandlers\obj\Debug\VytaTask.CrossCutting.ExceptionHandlers.pdb
+D:\Workspace\bykovas.visualstudio.com\MobiliLife\VytaTask\80 Cross-Cutting Layer\VytaTask.CrossCutting.ExceptionHandlers\bin\Debug\VytaTask.CrossCutting.ExceptionHandlers.dll
+D:\Workspace\bykovas.visualstudio.com\MobiliLife\VytaTask\80 Cross-Cutting Layer\VytaTask.CrossCutting.ExceptionHandlers\bin\Debug\VytaTask.CrossCutting.ExceptionHandlers.pdb
+D:\Workspace\bykovas.visualstudio.com\MobiliLife\VytaTask\80 Cross-Cutting Layer\VytaTask.CrossCutting.ExceptionHandlers\bin\Debug\VytaTask.Business.Contracts.dll
+D:\Workspace\bykovas.visualstudio.com\MobiliLife\VytaTask\80 Cross-Cutting Layer\VytaTask.CrossCutting.ExceptionHandlers\bin\Debug\EntityFramework.dll
+D:\Workspace\bykovas.visualstudio.com\MobiliLife\VytaTask\80 Cross-Cutting Layer\VytaTask.CrossCutting.ExceptionHandlers\bin\Debug\VytaTask.Business.Contracts.pdb
+D:\Workspace\bykovas.visualstudio.com\MobiliLife\VytaTask\80 Cross-Cutting Layer\VytaTask.CrossCutting.ExceptionHandlers\bin\Debug\EntityFramework.xml

@@ -1,0 +1,8 @@
+D:\WorkspaceJobs\Mobililife\VytaTask\80 Cross-Cutting Layer\VytaTask.CrossCutting.ValueConverters\bin\Debug\VytaTask.CrossCutting.ValueConverters.dll
+D:\WorkspaceJobs\Mobililife\VytaTask\80 Cross-Cutting Layer\VytaTask.CrossCutting.ValueConverters\bin\Debug\VytaTask.CrossCutting.ValueConverters.pdb
+D:\WorkspaceJobs\Mobililife\VytaTask\80 Cross-Cutting Layer\VytaTask.CrossCutting.ValueConverters\obj\Debug\VytaTask.CrossCutting.ValueConverters.dll
+D:\WorkspaceJobs\Mobililife\VytaTask\80 Cross-Cutting Layer\VytaTask.CrossCutting.ValueConverters\obj\Debug\VytaTask.CrossCutting.ValueConverters.pdb
+D:\Workspace\bykovas.visualstudio.com\MobiliLife\VytaTask\80 Cross-Cutting Layer\VytaTask.CrossCutting.ValueConverters\bin\Debug\VytaTask.CrossCutting.ValueConverters.dll
+D:\Workspace\bykovas.visualstudio.com\MobiliLife\VytaTask\80 Cross-Cutting Layer\VytaTask.CrossCutting.ValueConverters\bin\Debug\VytaTask.CrossCutting.ValueConverters.pdb
+D:\Workspace\bykovas.visualstudio.com\MobiliLife\VytaTask\80 Cross-Cutting Layer\VytaTask.CrossCutting.ValueConverters\obj\Debug\VytaTask.CrossCutting.ValueConverters.dll
+D:\Workspace\bykovas.visualstudio.com\MobiliLife\VytaTask\80 Cross-Cutting Layer\VytaTask.CrossCutting.ValueConverters\obj\Debug\VytaTask.CrossCutting.ValueConverters.pdb

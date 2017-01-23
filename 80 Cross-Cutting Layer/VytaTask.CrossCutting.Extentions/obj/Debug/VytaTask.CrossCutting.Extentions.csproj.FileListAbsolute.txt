@@ -1,0 +1,4 @@
+D:\Workspace\bykovas.visualstudio.com\MobiliLife\VytaTask\80 Cross-Cutting Layer\VytaTask.CrossCutting.Extentions\bin\Debug\VytaTask.CrossCutting.Extentions.dll
+D:\Workspace\bykovas.visualstudio.com\MobiliLife\VytaTask\80 Cross-Cutting Layer\VytaTask.CrossCutting.Extentions\bin\Debug\VytaTask.CrossCutting.Extentions.pdb
+D:\Workspace\bykovas.visualstudio.com\MobiliLife\VytaTask\80 Cross-Cutting Layer\VytaTask.CrossCutting.Extentions\obj\Debug\VytaTask.CrossCutting.Extentions.dll
+D:\Workspace\bykovas.visualstudio.com\MobiliLife\VytaTask\80 Cross-Cutting Layer\VytaTask.CrossCutting.Extentions\obj\Debug\VytaTask.CrossCutting.Extentions.pdb

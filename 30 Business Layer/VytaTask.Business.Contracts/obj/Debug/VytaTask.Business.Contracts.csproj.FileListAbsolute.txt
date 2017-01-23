@@ -1,0 +1,14 @@
+D:\WorkspaceJobs\Mobililife\VytaTask\30 Business Layer\VytaTask.Business.Contracts\bin\Debug\VytaTask.Business.Contracts.dll
+D:\WorkspaceJobs\Mobililife\VytaTask\30 Business Layer\VytaTask.Business.Contracts\bin\Debug\VytaTask.Business.Contracts.pdb
+D:\WorkspaceJobs\Mobililife\VytaTask\30 Business Layer\VytaTask.Business.Contracts\obj\Debug\VytaTask.Business.Contracts.dll
+D:\WorkspaceJobs\Mobililife\VytaTask\30 Business Layer\VytaTask.Business.Contracts\obj\Debug\VytaTask.Business.Contracts.pdb
+D:\WorkspaceJobs\Mobililife\VytaTask\30 Business Layer\VytaTask.Business.Contracts\obj\Debug\VytaTask.Business.Contracts.csprojResolveAssemblyReference.cache
+D:\Workspace\bykovas.visualstudio.com\MobiliLife\VytaTask\30 Business Layer\VytaTask.Business.Contracts\bin\Debug\VytaTask.Business.Contracts.dll
+D:\Workspace\bykovas.visualstudio.com\MobiliLife\VytaTask\30 Business Layer\VytaTask.Business.Contracts\bin\Debug\VytaTask.Business.Contracts.pdb
+D:\Workspace\bykovas.visualstudio.com\MobiliLife\VytaTask\30 Business Layer\VytaTask.Business.Contracts\obj\Debug\VytaTask.Business.Contracts.dll
+D:\Workspace\bykovas.visualstudio.com\MobiliLife\VytaTask\30 Business Layer\VytaTask.Business.Contracts\obj\Debug\VytaTask.Business.Contracts.pdb
+D:\Workspace\bykovas.visualstudio.com\MobiliLife\VytaTask\30 Business Layer\VytaTask.Business.Contracts\bin\Debug\VytaTask.Business.Contracts.dll.config
+D:\Workspace\bykovas.visualstudio.com\MobiliLife\VytaTask\30 Business Layer\VytaTask.Business.Contracts\bin\Debug\EntityFramework.dll
+D:\Workspace\bykovas.visualstudio.com\MobiliLife\VytaTask\30 Business Layer\VytaTask.Business.Contracts\bin\Debug\EntityFramework.SqlServer.dll
+D:\Workspace\bykovas.visualstudio.com\MobiliLife\VytaTask\30 Business Layer\VytaTask.Business.Contracts\bin\Debug\EntityFramework.xml
+D:\Workspace\bykovas.visualstudio.com\MobiliLife\VytaTask\30 Business Layer\VytaTask.Business.Contracts\bin\Debug\EntityFramework.SqlServer.xml
